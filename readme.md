@@ -1,1 +1,1 @@
-Did you see reame file? 
+This project contains functionally and adaptive slider. Tehnologies - Jquery, CSS, HTML.
