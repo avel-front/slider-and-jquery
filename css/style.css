@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 60px;
+    background-color: #086A87;
+}
+
+.rev_slider {
+    padding: 15px;
+}
+
+.rev_slider .photo {
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    border: 3px solid #0B5570;
+}
+
+.rev_slider .photo:hover {
+    border: 3px solid #053C50;
+}
+
+.slide {
+    margin-right: 9px;
+    margin-bottom: 13px;
+}
+
+h2 {
+    background-color: #0489B1;
+    border-radius: 50px;
+    width: max-content;
+    padding: 5px 14px 5px 14px;
+    color: white;
+    border: 2px solid #0D5F7D;
+
+}
+
+/* Обошел применение padding через <blockquote> в html
+   Нюанс в том, что теперь блок с текстом не прыгает
+   при наведении и отступы идут по дефолту.
+ */
+.text {
+    background-color: #1E708D;
+    border-radius: 10px;
+    border: 2px solid #0D5F7D;
+    color: #09222B;
+    font-style: italic;
+    font-size: large;
+}
+
+.text:hover {
+    border: 3px solid #085773;
+    cursor: pointer;
+}
