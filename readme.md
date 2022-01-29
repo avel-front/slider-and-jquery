@@ -1,1 +1,1 @@
-This project contains functionally and adaptive slider. Tehnologies - Jquery, CSS, HTML.
+This project contains functionally and adaptive slider. Tehnologies - JS, Jquery.
