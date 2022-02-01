@@ -1,1 +1,4 @@
-This project contains functionally and adaptive slider. Tehnologies - JS, Jquery.
+## Слайдер на jQuery
+
+Слайдер реализован с помощью JavaScript - библиотеки jQuery.  
+Преимущество этой библиотеки в дополнительных функциональных возможностях и готовых решениях.
