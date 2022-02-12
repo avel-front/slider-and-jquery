@@ -1,6 +1,9 @@
 ## Слайдер на jQuery
 
-Слайдер реализован с помощью JavaScript и библиотеки jQuery.  
+Слайдер реализован с помощью JavaScript и библиотеки jQuery. Адаптирован под основные разрешения экрана.
+
 Преимущество этой библиотеки в дополнительных функциональных возможностях и готовых решениях.
 
-![Alt-slider](https://i.ibb.co/mHmgWKP/slider-Jquery.png" "slider")
+### `Скриншот`
+
+![Alt-slider](https://s10.gifyu.com/images/slickSlider.gif "slider")
